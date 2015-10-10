@@ -1,1 +1,3 @@
 v0.0.1, 10-10-2015 -- Initial release.
+v0.0.2, 10-10-2015 -- Added usage section.
+v0.0.3, 10-10-2015 -- Helper method for one entity disambiguation added.
