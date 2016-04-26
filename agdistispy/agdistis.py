@@ -3,6 +3,7 @@ import copy
 
 class Agdistis(object):
     agdistisApi = 'http://139.18.2.164:8080/AGDISTIS'
+    #agdistisApi = 'http://139.18.2.164:8080/AGDISTISNOWHITELIST'
     defaultAgdistisParams = {
                 'text': '<entity>Leipzig</entity> is the capital of the world!',
                 'type': 'agdistis'
