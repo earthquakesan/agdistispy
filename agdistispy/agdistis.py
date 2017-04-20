@@ -38,4 +38,4 @@ if __name__ == "__main__":
     agdistis = Agdistis()
     entities = agdistis.disambiguate('<entity>Austria</entity>')
     entities = agdistis.disambiguateEntity('Austria')
-    print entities
+    print(entities)
