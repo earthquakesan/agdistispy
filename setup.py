@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='agdistispy',
-    version='1.0.0',
+    version='1.0.5',
     author='Ivan Ermilov',
     author_email='earthquakesan@gmail.com',
     packages=['agdistispy'],

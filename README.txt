@@ -19,7 +19,7 @@ Out[3]:
 Contributors
 =========
 
-* Ivan Ermilov (AKSW/BIS University of Leipzig)
+* Ivan Ermilov (AKSW/BIS/UPB)
 
 Notes
 =========
